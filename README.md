@@ -10,5 +10,6 @@ Updated code to prompt the user to be able to select the option of having the fo
 
 [Password Generator Prompt](prompt.jpg)
 
+Published site  https://lindamart.github.io/password-gen-project/
 
 Languages Used: HTML, CSS and JavaScript
